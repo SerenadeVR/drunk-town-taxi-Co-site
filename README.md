@@ -21,9 +21,6 @@ Your mission is simple: Pick up passengers who are too inebriated to walk and ge
 * **Platform:** VR (OpenXR)
 * **Input:** 6DOF Motion Controllers
 
-## 📄 Privacy & Support
-We value player privacy. This game processes VR movement data locally and does not transmit personal biometric data.
-* **[Read our Privacy Policy](privacy.html)**
 * **Support:** Rushgear49@gmail.com
 
 ---
